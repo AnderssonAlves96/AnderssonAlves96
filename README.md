@@ -1,9 +1,6 @@
 ## Oii! Eu sou o Andersson Alves 😁
 
-📊 Hoje, trabalho como Analista de BI
-
-<br>
-
+📊 Hoje, trabalho como Analista de BI<br>
 👨‍💻 Estudante de backend e frontend
  <div>
    <a href="https://github.com/AnderssonAlves96">
