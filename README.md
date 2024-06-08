@@ -1,5 +1,7 @@
 ## Oii! Eu sou o Andersson Alves 😁
 
+📊 Hoje, trabalho como Analista de BI
+👨‍💻 Estudante de backend e frontend
  <div>
    <a href="https://github.com/AnderssonAlves96">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnderssonAlves96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
